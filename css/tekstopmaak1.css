@@ -1,0 +1,19 @@
+/*oefing2*/
+p.abs {
+  font-size: 16px;
+}
+p.rel{
+  font-size: 1.5rem;
+}
+
+/*oefing3*/
+p.bold{
+  font-weight: bold;
+}
+p.italic{
+  font-style: italic;
+}
+p.bold-italic{
+  font-weight: bold;
+  font-style: italic;
+}
