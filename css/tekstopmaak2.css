@@ -1,0 +1,45 @@
+/*oefening1*/
+.links {
+  text-align: left; 
+}
+.midden {
+  text-align: center; 
+}
+
+
+.rechts {
+  text-align: right; 
+}
+/*oefing2*/
+.onder {
+  text-decoration: underline; 
+}
+
+
+.door {
+  text-decoration: line-through; 
+}
+
+/*oefing3*/
+.insprong1 {
+  text-indent: 40px; 
+}
+
+
+.insprong2 {
+  text-indent: 10%; 
+}
+/*oefing4*/
+.kast1 {
+  text-transform: uppercase; 
+}
+
+
+.kast2 {
+  text-transform: lowercase; 
+}
+
+
+.kast3 {
+  text-transform: capitalize;
+}

@@ -17,3 +17,18 @@ p.bold-italic{
   font-weight: bold;
   font-style: italic;
 }
+/*oefing4*/
+P.fijnste{
+  font-weight: 100;
+}
+.normaal {
+  font-weight: 400; 
+  font-style: italic; 
+}
+
+
+.dikke {
+  font-weight: 700; 
+}
+
+
